@@ -1,6 +1,6 @@
 # InterviewAssistant
 
-NUHS interview automation pipeline — generates personalized interview prep documents and post-interview assessment forms via MiniMax LLM.
+Interview automation pipeline — generates personalized interview prep documents and post-interview assessment forms via MiniMax LLM.
 
 ## Pipelines
 
