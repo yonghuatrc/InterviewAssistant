@@ -1,0 +1,6 @@
+__pycache__/
+output/
+assessment_output/
+*.pyc
+.env
+node_modules/
